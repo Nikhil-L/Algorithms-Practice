@@ -1,4 +1,5 @@
-
+/*This is an sorting algorithm to sort the values of 
+array in the increasing order of their values*/
 #include<iostream>
 using namespace std;
 
